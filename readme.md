@@ -9,3 +9,17 @@
 [Adminer](https://www.adminer.org/)
 
 [Mysql Workbench](https://www.mysql.com/products/workbench/)
+
+## CLI
+
+Connection à la base de donnée : 
+`mysql -u login -p password`
+
+Lister les bases de données :
+`show databases;`
+
+Utiliser une base donnée :
+`use nom_base_de_donnée;`
+
+Lister toute les tables de la base de donnée dans laquelle on se trouve :
+`show tables;`
