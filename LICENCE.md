@@ -1,20 +1,20 @@
 **Creative Commons Attribution-NonCommercial 4.0 International Public License**
 
-By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-NonCommercial 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
+By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-NonCommercial 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives FROM making the Licensed Material available under these terms and conditions.
 
 Section 1 – Definitions.
 
-    Adapted Material means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. For purposes of this Public License, where the Licensed Material is a musical work, performance, or sound recording, Adapted Material is always produced where the Licensed Material is synched in timed relation with a moving image.
+    Adapted Material means material subject to Copyright and Similar Rights that is derived FROM or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. For purposes of this Public License, WHERE the Licensed Material is a musical work, performance, or sound recording, Adapted Material is always produced WHERE the Licensed Material is synched in timed relation with a moving image.
     Adapter's License means the license You apply to Your Copyright and Similar Rights in Your contributions to Adapted Material in accordance with the terms and conditions of this Public License.
-    Copyright and Similar Rights means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights.
+    Copyright and Similar Rights means copyright and/or similar rights closely related to copyright including, without LIMITation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights.
     Effective Technological Measures means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.
-    Exceptions and Limitations means fair use, fair dealing, and/or any other exception or limitation to Copyright and Similar Rights that applies to Your use of the Licensed Material.
+    Exceptions and LIMITations means fair use, fair dealing, and/or any other exception or LIMITation to Copyright and Similar Rights that applies to Your use of the Licensed Material.
     Licensed Material means the artistic or literary work, database, or other material to which the Licensor applied this Public License.
-    Licensed Rights means the rights granted to You subject to the terms and conditions of this Public License, which are limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.
+    Licensed Rights means the rights granted to You subject to the terms and conditions of this Public License, which are LIMITed to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.
     Licensor means the individual(s) or entity(ies) granting rights under this Public License.
     NonCommercial means not primarily intended for or directed towards commercial advantage or monetary compensation. For purposes of this Public License, the exchange of the Licensed Material for other material subject to Copyright and Similar Rights by digital file-sharing or similar means is NonCommercial provided there is no payment of monetary compensation in connection with the exchange.
-    Share means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.
-    Sui Generis Database Rights means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.
+    Share means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material FROM a place and at a time individually chosen by them.
+    Sui Generis Database Rights means rights other than copyright resulting FROM Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anyWHERE in the world.
     You means the individual or entity exercising the Licensed Rights under this Public License. Your has a corresponding meaning.
 
 Section 2 – Scope.
@@ -23,18 +23,18 @@ Section 2 – Scope.
         Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:
             reproduce and Share the Licensed Material, in whole or in part, for NonCommercial purposes only; and
             produce, reproduce, and Share Adapted Material for NonCommercial purposes only.
-        Exceptions and Limitations. For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.
+        Exceptions and LIMITations. For the avoidance of doubt, WHERE Exceptions and LIMITations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.
         Term. The term of this Public License is specified in Section 6(a).
-        Media and formats; technical modifications allowed. The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section 2(a)(4) never produces Adapted Material.
+        Media and formats; technical modifications allowed. The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You FROM making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section 2(a)(4) never produces Adapted Material.
         Downstream recipients.
-            Offer from the Licensor – Licensed Material. Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.
+            Offer FROM the Licensor – Licensed Material. Every recipient of the Licensed Material automatically receives an offer FROM the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.
             No downstream restrictions. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.
         No endorsement. Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section 3(a)(1)(A)(i).
 
     Other rights.
-        Moral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.
+        Moral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the LIMITed extent necessary to allow You to exercise the Licensed Rights, but not otherwise.
         Patent and trademark rights are not licensed under this Public License.
-        To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties, including when the Licensed Material is used other than for NonCommercial purposes.
+        To the extent possible, the Licensor waives any right to collect royalties FROM You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties, including when the Licensed Material is used other than for NonCommercial purposes.
 
 Section 3 – License Conditions.
 
@@ -53,30 +53,30 @@ Your exercise of the Licensed Rights is expressly made subject to the following 
             indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.
         You may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.
         If requested by the Licensor, You must remove any of the information required by Section 3(a)(1)(A) to the extent reasonably practicable.
-        If You Share Adapted Material You produce, the Adapter's License You apply must not prevent recipients of the Adapted Material from complying with this Public License.
+        If You Share Adapted Material You produce, the Adapter's License You apply must not prevent recipients of the Adapted Material FROM complying with this Public License.
 
 Section 4 – Sui Generis Database Rights.
 
-Where the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:
+WHERE the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:
 
     for the avoidance of doubt, Section 2(a)(1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database for NonCommercial purposes only;
     if You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material; and
     You must comply with the conditions in Section 3(a) if You Share all or a substantial portion of the contents of the database.
 
-For the avoidance of doubt, this Section 4 supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.
+For the avoidance of doubt, this Section 4 supplements and does not replace Your obligations under this Public License WHERE the Licensed Rights include other Copyright and Similar Rights.
 
-Section 5 – Disclaimer of Warranties and Limitation of Liability.
+Section 5 – Disclaimer of Warranties and LIMITation of Liability.
 
-    Unless otherwise separately undertaken by the Licensor, to the extent possible, the Licensor offers the Licensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable. Where disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to You.
-    To the extent possible, in no event will the Licensor be liable to You on any legal theory (including, without limitation, negligence) or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this Public License or use of the Licensed Material, even if the Licensor has been advised of the possibility of such losses, costs, expenses, or damages. Where a limitation of liability is not allowed in full or in part, this limitation may not apply to You.
+    Unless otherwise separately undertaken by the Licensor, to the extent possible, the Licensor offers the Licensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or other. This includes, without LIMITation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable. WHERE disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to You.
+    To the extent possible, in no event will the Licensor be liable to You on any legal theory (including, without LIMITation, negligence) or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this Public License or use of the Licensed Material, even if the Licensor has been advised of the possibility of such losses, costs, expenses, or damages. WHERE a LIMITation of liability is not allowed in full or in part, this LIMITation may not apply to You.
 
-    The disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.
+    The disclaimer of warranties and LIMITation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.
 
 Section 6 – Term and Termination.
 
     This Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.
 
-    Where Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:
+    WHERE Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:
         automatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or
         upon express reinstatement by the Licensor.
     For the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.
@@ -86,14 +86,14 @@ Section 6 – Term and Termination.
 Section 7 – Other Terms and Conditions.
 
     The Licensor shall not be bound by any additional or different terms or conditions communicated by You unless expressly agreed.
-    Any arrangements, understandings, or agreements regarding the Licensed Material not stated herein are separate from and independent of the terms and conditions of this Public License.
+    Any arrangements, understandings, or agreements regarding the Licensed Material not stated herein are separate FROM and independent of the terms and conditions of this Public License.
 
 Section 8 – Interpretation.
 
-    For the avoidance of doubt, this Public License does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of the Licensed Material that could lawfully be made without permission under this Public License.
-    To the extent possible, if any provision of this Public License is deemed unenforceable, it shall be automatically reformed to the minimum extent necessary to make it enforceable. If the provision cannot be reformed, it shall be severed from this Public License without affecting the enforceability of the remaining terms and conditions.
+    For the avoidance of doubt, this Public License does not, and shall not be interpreted to, reduce, LIMIT, restrict, or impose conditions on any use of the Licensed Material that could lawfully be made without permission under this Public License.
+    To the extent possible, if any provision of this Public License is deemed unenforceable, it shall be automatically reformed to the minimum extent necessary to make it enforceable. If the provision cannot be reformed, it shall be severed FROM this Public License without affecting the enforceability of the remaining terms and conditions.
     No term or condition of this Public License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor.
-    Nothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.
+    Nothing in this Public License constitutes or may be interpreted as a LIMITation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including FROM the legal processes of any jurisdiction or authority.
 
 **Licence publique Creative Commons Attribution - Utilisation non commerciale 4.0 International**
 
@@ -105,9 +105,9 @@ Article 1 - Définitions.
     Licence d’Œuvre dérivée signifie licence par laquelle Vous accordez Vos Droit d'auteur et droits connexes portant sur Vos contributions à l'Œuvre dérivée, selon les termes et conditions de la présente Licence publique.
     Droit d’auteur et droits connexes signifie droit d’auteur et/ou droits connexes incluant, notamment, la représentation, la radio et télédiffusion, l’enregistrement sonore et le Droit sui generis des producteurs de bases de données, quelle que soit la classification ou qualification juridique de ces droits. Dans le cadre de la présente Licence publique, les droits visés à l’Article 2(b)(1)-(2) ne relèvent ni du Droit d’auteur ni de droits connexes.
     Mesures techniques efficaces signifie mesures techniques qui, en l’absence d’autorisation expresse, ne peuvent être contournées dans le cadre de lois conformes aux dispositions de l’Article 11 du Traité de l’OMPI sur le droit d’auteur adopté le 20 Décembre 1996 et/ou d’accords internationaux de même objet.
-    Exceptions et limitations signifie utilisation loyale et équitable (fair use et fair dealing) et/ou toute autre exception ou limitation applicable à Votre utilisation de l’Œuvre sous licence.
+    Exceptions et LIMITations signifie utilisation loyale et équitable (fair use et fair dealing) et/ou toute autre exception ou LIMITation applicable à Votre utilisation de l’Œuvre sous licence.
     Œuvre sous licence signifie œuvre littéraire ou artistique, base de données ou toute autre œuvre pour laquelle le Donneur de licence a recours à la présente Licence publique.
-    Droits accordés par la licence signifie droits qui Vous sont accordés selon les termes et conditions d’utilisation définis par la présente Licence publique, limités aux Droit d’auteur et droits connexes applicables à Votre utilisation de l’Œuvre sous licence et que le Donneur de licence a le droit d’accorder.
+    Droits accordés par la licence signifie droits qui Vous sont accordés selon les termes et conditions d’utilisation définis par la présente Licence publique, LIMITés aux Droit d’auteur et droits connexes applicables à Votre utilisation de l’Œuvre sous licence et que le Donneur de licence a le droit d’accorder.
     Donneur de licence signifie un individu ou une entité octroyant la présente Licence publique et les droits accordés par elle.
     Utilisation non commerciale signifie que l’utilisation n’a pas principalement pour but ou pour objectif d'obtenir un avantage commercial ou une compensation financière. L’échange de l’Œuvre sous licence avec d’autres œuvres soumises aux Droit d’auteur et droits connexes par voie de partage de fichiers numériques ou autres moyens analogues constitue une Utilisation non commerciale à condition qu’il n’y ait aucun avantage commercial ni aucune compensation financière en relation avec la transaction.
     Partager signifie mettre une œuvre à la disposition du public par tout moyen ou procédé qui requiert l’autorisation découlant des Droits accordés par la licence, tels que les droits de reproduction, de représentation au public, de distribution, de diffusion, de communication ou d’importation, y compris de manière à ce que chacun puisse y avoir accès de l’endroit et au moment qu’il choisit individuellement.
@@ -120,7 +120,7 @@ Article 2 - Champ d’application de la présente Licence publique.
         Sous réserve du respect des termes et conditions d'utilisation de la présente Licence publique, le Donneur de licence Vous autorise à exercer pour le monde entier, à titre gratuit, non sous-licenciable, non exclusif, irrévocable, les Droits accordés par la licence afin de :
             reproduire et Partager l’Œuvre sous licence, en tout ou partie, seulement pour une Utilisation non commerciale ; et
             produire, reproduire et Partager l’Œuvre dérivée seulement pour une Utilisation non commerciale.
-        Exceptions et limitations. Afin de lever toute ambiguïté, lorsque les Exceptions et limitations s’appliquent à Votre utilisation, la présente Licence publique ne s’applique pas et Vous n’avez pas à Vous conformer à ses termes et conditions.
+        Exceptions et LIMITations. Afin de lever toute ambiguïté, lorsque les Exceptions et LIMITations s’appliquent à Votre utilisation, la présente Licence publique ne s’applique pas et Vous n’avez pas à Vous conformer à ses termes et conditions.
         Durée. La durée de la présente Licence publique est définie à l’Article 6(a).
         Supports et formats : modifications techniques autorisées. Le Donneur de licence Vous autorise à exercer les Droits accordés par la licence sur tous les supports et formats connus ou encore inconnus à ce jour, et à apporter toutes les modifications techniques que ceux-ci requièrent. Le Donneur de licence renonce et/ou accepte de ne pas exercer ses droits qui pourraient être susceptibles de Vous empêcher d’apporter les modifications techniques nécessaires pour exercer les Droits accordés par la licence, y compris celles nécessaires au contournement des Mesures techniques efficaces. Dans le cadre de la présente Licence publique, le fait de ne procéder qu’à de simples modifications techniques autorisées selon les termes du présent Article 2(a)(4) n’est jamais de nature à créer une Œuvre dérivée.
         Utilisateurs en aval.
@@ -144,7 +144,7 @@ L’exercice des Droits accordés par la licence est expressément soumis aux co
                 identification du(des) auteur(s) de l’Œuvre sous licence et de toute personne à qui revient l’attribution de l’Œuvre sous licence, dans la mesure du possible, conformément à la demande du Donneur de licence (y compris sous la forme d’un pseudonyme s’il est indiqué) ;
                 l’indication de l’existence d’un droit d’auteur ;
                 une notice faisant référence à la présente Licence publique ;
-                une notice faisant référence aux limitations de garantie et exclusions de responsabilité ;
+                une notice faisant référence aux LIMITations de garantie et exclusions de responsabilité ;
                 un URI ou un hyperlien vers l’Œuvre sous licence dans la mesure du possible ;
             Indiquer si Vous avez modifié l’Œuvre sous licence et conserver un suivi des modifications précédentes ; et
             Indiquer si l’Œuvre sous licence est mise à disposition en vertu de la présente Licence publique en incluant le texte, l’URI ou l’hyperlien correspondant à la présente Licence publique.
@@ -162,12 +162,12 @@ Lorsque les Droits accordés par la licence incluent le Droit sui generis des pr
 
 Afin de lever toute ambiguïté, le présent Article 4 complète mais ne remplace pas Vos obligations découlant des termes de la présente Licence publique lorsque les Droits accordés par la licence incluent d’autres Droit d’auteur et droits connexes.
 
-Article 5 – Limitations de garantie et exclusions de responsabilité.
+Article 5 – LIMITations de garantie et exclusions de responsabilité.
 
-    Sauf indication contraire et dans la mesure du possible, le Donneur de licence met à disposition l’Œuvre sous licence telle quelle, et n’offre aucune garantie de quelque sorte que ce soit, notamment expresse, implicite, statutaire ou autre la concernant. Cela inclut, notamment, les garanties liées au titre, à la valeur marchande, à la compatibilité de certaines utilisations particulières, à l’absence de violation, à l’absence de vices cachés ou autres défauts, à l’exactitude, à la présence ou à l’absence d’erreurs connues ou non ou susceptibles d’être découvertes dans l’Œuvre sous licence. Lorsqu’une limitation de garantie n’est pas autorisée en tout ou partie, cette clause peut ne pas Vous être applicable.
+    Sauf indication contraire et dans la mesure du possible, le Donneur de licence met à disposition l’Œuvre sous licence telle quelle, et n’offre aucune garantie de quelque sorte que ce soit, notamment expresse, implicite, statutaire ou autre la concernant. Cela inclut, notamment, les garanties liées au titre, à la valeur marchande, à la compatibilité de certaines utilisations particulières, à l’absence de violation, à l’absence de vices cachés ou autres défauts, à l’exactitude, à la présence ou à l’absence d’erreurs connues ou non ou susceptibles d’être découvertes dans l’Œuvre sous licence. Lorsqu’une LIMITation de garantie n’est pas autorisée en tout ou partie, cette clause peut ne pas Vous être applicable.
     Dans la mesure du possible, le Donneur de licence ne saurait voir sa responsabilité engagée vis-à-vis de Vous, quel qu’en soit le fondement juridique (y compris, notamment, la négligence), pour tout préjudice direct, spécial, indirect, incident, conséquentiel, punitif, exemplaire, ou pour toutes pertes, coûts, dépenses ou tout dommage découlant de l’utilisation de la présente Licence publique ou de l’utilisation de l’Œuvre sous licence, même si le Donneur de licence avait connaissance de l’éventualité de telles pertes, coûts, dépenses ou dommages. Lorsqu’une exclusion de responsabilité n’est pas autorisée en tout ou partie, cette clause peut ne pas Vous être applicable.
 
-    Les limitations de garantie et exclusions de responsabilité ci-dessus doivent être interprétées, dans la mesure du possible, comme des limitations et renonciations totales de toute responsabilité.
+    Les LIMITations de garantie et exclusions de responsabilité ci-dessus doivent être interprétées, dans la mesure du possible, comme des LIMITations et renonciations totales de toute responsabilité.
 
 Article 6 – Durée et fin.
 
@@ -187,7 +187,7 @@ Article 7 – Autres termes et conditions.
 
 Article 8 – Interprétation.
 
-    Afin de lever toute ambiguïté, la présente Licence publique ne doit en aucun cas être interprétée comme ayant pour effet de réduire, limiter, restreindre ou imposer des conditions plus contraignantes que celles qui sont prévues par les dispositions légales applicables.
+    Afin de lever toute ambiguïté, la présente Licence publique ne doit en aucun cas être interprétée comme ayant pour effet de réduire, LIMITer, restreindre ou imposer des conditions plus contraignantes que celles qui sont prévues par les dispositions légales applicables.
     Dans la mesure du possible, si une clause de la présente Licence publique est déclarée inapplicable, elle sera automatiquement modifiée a minima afin de la rendre applicable. Dans le cas où la clause ne peut être modifiée, elle sera écartée de la présente Licence publique sans préjudice de l’applicabilité des termes et conditions restants.
     Aucun terme ni aucune condition de la présente Licence publique ne sera écarté(e) et aucune violation ne sera admise sans l’accord exprès du Donneur de licence.
-    Aucun terme ni aucune condition de la présente Licence publique ne constitue ou ne peut être interprété(e) comme une limitation ou une renonciation à un quelconque privilège ou à une immunité s’appliquant au Donneur de licence ou à Vous, y compris lorsque celles-ci émanent d’une procédure légale, quel(le) qu’en soit le système juridique concerné ou l’autorité compétente.
+    Aucun terme ni aucune condition de la présente Licence publique ne constitue ou ne peut être interprété(e) comme une LIMITation ou une renonciation à un quelconque privilège ou à une immunité s’appliquant au Donneur de licence ou à Vous, y compris lorsque celles-ci émanent d’une procédure légale, quel(le) qu’en soit le système juridique concerné ou l’autorité compétente.
